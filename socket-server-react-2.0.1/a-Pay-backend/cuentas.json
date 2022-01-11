@@ -1,0 +1,28 @@
+[
+    {
+        "deudor": "Diego",
+        "prestamista": "Francisco Fii",
+        "monto": "100000",
+        "cuota": "2",
+        "cuotasPagadas": "2",
+        "estadoDeudor": false,
+        "estadoPrestamista": false,
+        "estadoCuenta": false,
+        "concepto": "Prestamo",
+        "fechaInicio": "01-01-2021",
+        "fechaLimite": "01-02-2021"
+    },
+    {
+        "deudor": "Leo gugu",
+        "prestamista": "Francisco Fii",
+        "monto": "1990",
+        "cuota": "2",
+        "cuotasPagadas": "2",
+        "estadoDeudor": false,
+        "estadoPrestamista": false,
+        "estadoCuenta": false,
+        "concepto": "Tarjeta de credito",
+        "fechaInicio": "01-01-2021",
+        "fechaLimite": "01-02-2021"
+    }
+]
